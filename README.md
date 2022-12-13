@@ -11,7 +11,7 @@ git clone https://github.com/isislavor/trabalho11
 :desktop_computer:<b>Gerando arquivo:</b> Para gerar o arquivo vá até o terminal  e digite :<br></br>
 gcc TR4_538654.c -o TR4_538654.c  <br></br>
 
-<p><b>Descrição:</b> O arquivo <b>TR4_538654.c</b> é a parte de implementação do código,o arquivo <b>ordvet.h</b> tem as funções implementadas,o comando <b>-o</b> será utilizado para sinalizar a nomeação do arquivo e <b>TR4_538654</b> é o nome do executável gerado.</p>
+<p><b>Descrição:</b> O arquivo <b>TR4_538654.c</b> é a parte de implementação do código,o arquivo <b>ordvetor.h</b> tem as funções implementadas,o comando <b>-o</b> será utilizado para sinalizar a nomeação do arquivo e <b>TR4_538654</b> é o nome do executável gerado.</p>
 
 :woman_technologist:<b>Executando:</b> <br></br>
 Para realizar a execução vá ao terminal e digite : <br></br>
